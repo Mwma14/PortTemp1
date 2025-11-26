@@ -1,0 +1,5 @@
+{
+  "name": "Pulse Beams Demo",
+  "description": "A React application demonstrating the Pulse Beams component using Framer Motion and Tailwind CSS.",
+  "requestFramePermissions": []
+}
